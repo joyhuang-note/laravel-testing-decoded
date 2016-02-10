@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'guard'
+gem 'guard-phpunit2'
+gem 'rb-fsevent'
+gem 'terminal-notifier-guard'

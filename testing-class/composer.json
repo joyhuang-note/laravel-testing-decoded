@@ -1,0 +1,14 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "5.1.*"
+    },
+    "autoload": {
+        "classmap": [
+            "Calculator.php",
+            "Operation.php",
+            "Addition.php",
+            "Subtraction.php",
+            "Multiplication.php"
+        ]
+    }
+}
